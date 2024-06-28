@@ -1,0 +1,7 @@
+typing
+google-api-core
+google-cloud-storage
+google-cloud-documentai-toolbox
+google-cloud-documentai
+functions-framework==3.*
+google-cloud-logging==3.5.0
